@@ -68,6 +68,7 @@
 		52FD9CC1200610550046193D /* CustomButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 52FD9CC0200610550046193D /* CustomButton.m */; };
 		52FD9CC5200617C40046193D /* UserCenterController.m in Sources */ = {isa = PBXBuildFile; fileRef = 52FD9CC3200617C40046193D /* UserCenterController.m */; };
 		52FD9CC6200617C40046193D /* UserCenterController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 52FD9CC4200617C40046193D /* UserCenterController.xib */; };
+		BEA74B8520B5410C00254919 /* SupserGameInfo.plist in Resources */ = {isa = PBXBuildFile; fileRef = BEA74B8420B5410C00254919 /* SupserGameInfo.plist */; };
 		D4C73449D6879A0BABAD5987 /* Pods_BaseDemo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E2D67C2BDA231E4104589CD /* Pods_BaseDemo.framework */; };
 /* End PBXBuildFile section */
 
@@ -225,6 +226,7 @@
 		52FD9CC2200617C40046193D /* UserCenterController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = UserCenterController.h; sourceTree = "<group>"; };
 		52FD9CC3200617C40046193D /* UserCenterController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UserCenterController.m; sourceTree = "<group>"; };
 		52FD9CC4200617C40046193D /* UserCenterController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = UserCenterController.xib; sourceTree = "<group>"; };
+		BEA74B8420B5410C00254919 /* SupserGameInfo.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = SupserGameInfo.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -370,6 +372,7 @@
 				520B96412004695300E6DD54 /* CMRequest.m */,
 				520B96422004695300E6DD54 /* LSCoreToolCenter.h */,
 				520B96432004695300E6DD54 /* LSCoreToolCenter.m */,
+				BEA74B8420B5410C00254919 /* SupserGameInfo.plist */,
 			);
 			path = Helpers;
 			sourceTree = "<group>";
@@ -790,6 +793,7 @@
 				520B96132004689800E6DD54 /* Assets.xcassets in Resources */,
 				520B96A120046D3600E6DD54 /* MJRefresh.bundle in Resources */,
 				5211646B2006F8A000F00019 /* Documentation.html in Resources */,
+				BEA74B8520B5410C00254919 /* SupserGameInfo.plist in Resources */,
 				52FD9CC6200617C40046193D /* UserCenterController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
